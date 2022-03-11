@@ -1,0 +1,3 @@
+/*creating .gitignore file and adding node_modules to it*/
+#dependencies 
+node_modules
