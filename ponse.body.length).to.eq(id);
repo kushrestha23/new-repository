@@ -1,0 +1,35 @@
+[33mcommit 9738bac4bac64dc4c9b32c8be9e3a510d1be197a[m[33m ([m[1;36mHEAD -> [m[1;32mTestCases[m[33m, [m[1;32mmain[m[33m)[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Thu Mar 17 22:10:07 2022 -0400
+
+    initial commit
+
+[33mcommit c7af991833f4a9655847c86fa1df1ca93273c09e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Wed Mar 16 16:44:56 2022 -0400
+
+    adding test files
+
+[33mcommit 7704169bc3ef7c3b3848c209efa33809f4151245[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Fri Mar 11 14:52:35 2022 -0500
+
+    updating config.yml
+
+[33mcommit 705df67bb314083718a88c7bda92a69d7cd7b7bb[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Fri Mar 11 14:47:53 2022 -0500
+
+    added config.yml
+
+[33mcommit cd138953c6fb480599ff7b8a55fd15cf558ab622[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Fri Mar 11 14:34:01 2022 -0500
+
+    Updated gitignore
+
+[33mcommit 1e6c7e899d5e6560e22c1ec7ca407abeac602c0d[m
+Author: kushrestha23 <35647717+kushrestha23@users.noreply.github.com>
+Date:   Thu Mar 10 19:25:01 2022 -0500
+
+    Add index.html
