@@ -90,12 +90,5 @@ describe("Testing API Endpoints using Cypress", () => {
     }).then((response) => {
       expect(response.status).to.eq(400);
     });
-  });
-  it("Trying filter records through API", () => {
-    cy.request("https://jsonplaceholder.typicode.com/posts/1").then(
-      (response) => {
-        expect(response.body.length).to.eq(id);
-      }
-    );
-  })
+  });  
 });
